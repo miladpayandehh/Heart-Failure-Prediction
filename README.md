@@ -15,7 +15,7 @@ section 6 is for Logistic Regression Model - Accuracy
 
 Section 7 is for Logistic Regression Model - Accuracy (after balancing)
 
-**Section 8: LR Classification Report **
+**Section 8: LR Classification Report**
 
 Run section 9 to check the results of the KNN model
 
